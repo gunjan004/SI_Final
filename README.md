@@ -1,7 +1,7 @@
 # System Integration Final: Azure Language Understanding
 SI Final Project documentation
 
-## NOTE (Important): To Test the APIs, please enter the queries close to the utterances since due to time constraint the model has not been trained with a huge dataset (The model is trained on limited data and might give some incorrect prediction). The screenshots for the utterances and examples can be found in the SI_Final folder itself.
+### NOTE (Important): To Test the APIs, please enter the queries close to the utterances since due to time constraint the model has not been trained with a huge dataset (The model is trained on limited data and might give some incorrect prediction). The screenshots for the utterances and examples can be found in the SI_Final folder itself.
 
 API can be used to easily authenticate users if any. The project is used to leverage the Microsoft Cognitive Services APIs and allow developers to use the power of artificial intelligence to create apps that can more effectively understand and interpret the needs of users. I am using the language understanding intelligence service to build API which can accept a POST request and run the submitted content through a third party API before sending back the response. The server is hosted on AWS EC2.
 
