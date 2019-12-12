@@ -11,14 +11,13 @@ text in order to predict overall meaning and extract any relevant information.
 * [Get Started](#get-started)
     * [Login](#login)
     * [Sign Up](#sign-up)
-    * [Get My Games](#get-my-games)
-    * [Add New Games](#add-new-games)
-    * [Delete Game](#delete-game)
+    * [Corporate Job Search/Apply API](#corporate-job-search-apply)
+    * [Emotion Detection](#emotion-detection)
 * [Database Schema](#database-schema)
 * [References](#references)
 
 ## Get Started
-User-Authentication-API can be used to login, signup user and get user specific information. The other APIs are used to get, add and delete games to and from the repository.
+User-Authentication-API can be used to login, signup user. The other APIs are used to get response on basis of entered utterances with the help of Azure LUIS.
 
 > In the examples on this page, you would replace [TOKEN] with the token returned by this API after user SignUp/Login.
 
