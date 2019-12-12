@@ -12,7 +12,11 @@ LUIS: Language Understanding Intelligence Service is a machine learning based se
 In order to build and train our model we need to define some basic sample utterances that connect our intent and our entities together.
 
 ## Steps used to develop Application on LUIS portal
-- Created a new application after logging in to the LUIS portal and creating resources. Added some intents and utterances to the application created.
+- Created a new application after logging in to the LUIS portal and creating resources. Added some intents and utterances to the application created. Example: I have created an app called BigCorpHR which has three intents - None, ApplyForJob, GetJobInfo (These are basically the categories in which the user queries will fall). For each Intent, I have added several example utterances which are used to train our model.
+
+- Once the app is created, and intents and utterances have been defined, I click on Train to train my model. After this completes, Azure LUIS allows me to test my model on the portal. 
+
+- The last step is to publish the trained model.
 
 ## Table of content
 * [Get Started](#get-started)
