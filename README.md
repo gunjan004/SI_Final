@@ -5,7 +5,14 @@ API can be used to easily authenticate users if any. The project is used to leve
 
 LUIS: Language Understanding Intelligence Service is a machine learning based service that enables you to build natural language processing into your applications. It does this by applying custom machine learning intelligence to a user's conversational natural language text in order to predict overall meaning and extract any relevant information. The LUIS application consists of a custom domain specific model. This is the brain of our application and is composed of three key things: Intents, Utterances and Entities.
 
-text in order to predict overall meaning and extract any relevant information.
+- Intents: These are basically actions for example - Book a Flight, Order Pizza, Software engineer jobs etc.
+- Utterances: These are the services and features that our model is going to provide. Each intent will be associated with several utterances and each utterance will probably use at least one entity entities are a little like variables that allow you to capture and process important information from user. Example: 'I want 4 cheeseburst pizzas' which is received from the user.
+- Entities: In order to extract user data from utterances, we need to create entities and we need to go through the utterances that we've created and mark any required entities.
+
+In order to build and train our model we need to define some basic sample utterances that connect our intent and our entities together.
+
+## Steps used to develop Application on LUIS portal
+- Created a new application after logging in to the LUIS portal and creating resources. Added some intents and utterances to the application created.
 
 ## Table of content
 * [Get Started](#get-started)
