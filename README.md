@@ -11,8 +11,8 @@ text in order to predict overall meaning and extract any relevant information.
 * [Get Started](#get-started)
     * [Login](#login)
     * [Sign Up](#sign-up)
-    * [Corporate Job Search/Apply API](#corporate-job-search-apply)
-    * [Emotion Detection](#emotion-detection)
+    * [Corporate Job Search/Apply API](#corporate-job-search-apply-api)
+    * [Emotion Detection](#emotion-detection-API)
 * [Database Schema](#database-schema)
 * [References](#references)
 
