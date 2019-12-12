@@ -23,7 +23,7 @@ User-Authentication-API can be used to login, signup user. The other APIs are us
 
 ### Login 
 
-> http://52.45.142.77:80/api/user/login
+> http://52.45.142.77:80/languageUnderstanding/login
 
 * Method - POST 
 
@@ -63,7 +63,7 @@ User-Authentication-API can be used to login, signup user. The other APIs are us
 
 ### Sign Up
 
-> http://52.45.142.77:80/api/user/signUp
+> http://52.45.142.77:80/languageUnderstanding/signUp
 
 * Method - POST
 
